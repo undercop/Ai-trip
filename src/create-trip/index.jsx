@@ -9,9 +9,11 @@ function CreateTrip() {
     <div>
       <div className='m-20'>
         <h2 className='text-xl my-3 font-medium'>What is destination of choice</h2>
-        <GooglePlacesAutocomplete
-        apiKey=''
-        />
+       
+        // google api key is asking for credit card
+        <div.places>
+          mm what to do?
+        </div.places>
       </div>
     </div>
     </div>
